@@ -5,7 +5,6 @@ import java.io.FileWriter;
 import java.io.IOException;
 import java.io.InputStreamReader;
 
-
 public class InputString {
 	static String CLOSE = "close";
 	static String CLEAR_FILE="clear";
