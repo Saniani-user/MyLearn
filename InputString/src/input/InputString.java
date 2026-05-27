@@ -18,6 +18,7 @@ public class InputString {
 		this.outputFile = outputFile;
 		this.desireLineLenght = desireLineLenght;
 	}
+
 	public static void main(String[] args) throws IOException {
 		// TODO Auto-generated method stub
 		String outputFile = "File.txt";
